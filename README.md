@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7873925a-9528-4dbc-bf5d-0a606ad81c5e)# EDGE-DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
